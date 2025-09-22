@@ -11,3 +11,9 @@
   - ML models: Performance evaluation and Tuning
 - ML Algorithms
 - Implementation and Operations in AWS
+
+---
+
+The primary purpose of Amazon Mechanical Turk (MTurk) is crowdsourced human intelligence tasks.
+
+- https://requester.mturk.com/create/projects/new
